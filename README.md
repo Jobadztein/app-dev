@@ -13,6 +13,7 @@
 9. Controversy: Graphic violence
 10. Impact: Recognition for technical achievements in depicting a rarely explored historical period
 
+# Key Points
 - Setting and Time Period: The film is set in pre-Columbian Mesoamerica, offering a unique and rarely explored historical context.
 
 - Protagonist's Journey: The story revolves around Jaguar Paw, who embarks on a perilous journey to save his family from Mayan raiders, showcasing themes of survival and resilience.
